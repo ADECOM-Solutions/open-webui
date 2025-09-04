@@ -637,3 +637,8 @@ body {
 	background: #171717;
 	color: #eee;
 }
+
+#logo {
+  height: 75px !important;
+  width: 75px !important;
+}
