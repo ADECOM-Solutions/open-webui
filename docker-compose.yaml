@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: ghcr.io/open-webui/open-webui:main
+    image: ghcr.io/adecom-solutions/open-webui:main
     container_name: open-webui
     volumes:
       - open-webui:/app/backend/data
